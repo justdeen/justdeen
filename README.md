@@ -1,11 +1,17 @@
+<style>
+  p:nth-of-type(4) {
+  background-color: #f2f2f2 important!; /* Light gray */
+}
+</style>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justdeen&label=Profile%20views&color=0e75b6&style=flat" alt="justdeen" /> </p>
 
-<h1 align="center">Hi 👋, I'm Sheriffdeen</h1>
+<h1 align="center" style="background-color: red;">Hi 👋, I'm Sheriffdeen</h1>
 
 <h6 align="left">As a skilled Software Developer, I leverage my technical expertise to harness technology which solve real-world problems and drive innovative solutions.</h6>
-<br>
+
   
-📝 I also write articles on medium.com.<a href="https://medium.com/@sheriffdeen">My blog </a>
+📝 I also write articles on medium.<a href="https://medium.com/@sheriffdeen">My blog </a>
 <br>
 <br>
 
