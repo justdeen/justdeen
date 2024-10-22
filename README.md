@@ -3,11 +3,9 @@
 
 <h1 align="center">Hi 👋, I'm Sheriffdeen</h1>
 
-<h6 align="left">As a skilled Software Developer, I leverage my technical expertise to harness technology which solve real-world problems and drive innovative solutions.</h6>
+<h6 align="left">As a skilled Software Developer, I leverage my technical expertise to harness technology which solve real-world problems and drive innovative solutions.</h6>  
 
-  
-📝 I also write articles on medium.<a href="https://medium.com/@sheriffdeen">My blog </a>
-<br>
+<h6>📝 I also write articles on medium. <a href="https://medium.com/@sheriffdeen">My blog </a></h6>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,7 +22,8 @@
 <a href="https://github.com/justdeen"><img src="https://streak-stats.demolab.com?user=justdeen&theme=catppuccin-macchiato" alt="Streak's Card" width="100%"></a>
 
 <a href="https://github.com/justdeen"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=justdeen&title_color=8bd5ca&text_color=cad3f5&icon_color=c6a0f6&bg_color=24273a&langs_count=20&layout=donut-vertical&hide_border=false&exclude_repo=fajarkim.github.io,Justdeen" alt="Top Langs Card" width="100%"></a>
-
+<br>
+<br>
 
 <h3>📫 How to reach me:</h3>
 • Email: sheriffaliuyamah82@gmail.com
