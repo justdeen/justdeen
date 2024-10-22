@@ -4,9 +4,8 @@
 
 <h6 align="left">As a skilled Software Developer, I leverage my technical expertise to harness technology which solve real-world problems and drive innovative solutions.</h6>
 <br>
-<br>
   
-📝 I also write articles on medium.com  [medium.com/@sheriffdeen](medium.com/@sheriffdeen)
+📝 I also write articles on medium.com.<a href="medium.com/@sheriffdeen">My blog </a>
 <br>
 <br>
 
