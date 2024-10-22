@@ -1,7 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justdeen&label=Profile%20views&color=0e75b6&style=flat" alt="justdeen" /> </p>
 
 <h1 align="center">Hi 👋, I'm Sheriffdeen</h1>
-<h6 align="left">As a skilled Software Developer, I leverage my technical expertise to harness technology which solve real-world problems and drive innovative solutions.
+
+<h6 align="left">As a skilled Software Developer, I leverage my technical expertise to harness technology which solve real-world problems and drive innovative solutions.</h6>
 <br>
 <br>
   
