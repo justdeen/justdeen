@@ -6,9 +6,6 @@
 
 <h6 align="left">As a skilled Software Developer, I leverage my technical expertise to harness technology which solve real-world problems and drive innovative solutions.</h6>  
 
-<h6>📝 I also write articles on medium. <a href="https://medium.com/@sheriffdeen">My blog </a></h6>
-<br>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
